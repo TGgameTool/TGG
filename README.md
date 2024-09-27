@@ -1,7 +1,10 @@
 # TGG
-Telegram Game [电报小游戏脚本 简称TGG]/n
+Telegram Game [电报小游戏脚本 简称TGG]
+
 电报游戏脚本 电报脚本 telegram小游戏脚本 telegram游戏脚本
-目前拥有功能
+
+目前拥有功能:
+
 1.小游戏预览
 2.tdata导入telegram账号[已使用官方API防封处理]
 3.QR扫码登录telegram账号[已使用官方API防封处理]
