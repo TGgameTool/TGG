@@ -1,6 +1,6 @@
 # TGG
 Telegram Game [电报小游戏脚本 简称TGG]  
-点此下载exe：https://github.com/leia189/TGG/releases  
+点此下载exe：https://github.com/TGgameTool/TGG/releases  
 电报游戏脚本 电报脚本 telegram小游戏脚本 telegram游戏脚本  
 
 目前拥有功能:  
