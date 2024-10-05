@@ -12,6 +12,7 @@ Telegram Game [电报小游戏脚本 简称TGG]
 6.支持导入此游戏的 TGWEBDATA 单独运行    
 7.支持自定义是否进行任务和注册使用邀请码  
 8.支持自定义线程延迟  
+
 ![image](https://github.com/user-attachments/assets/715bb526-6c75-42c3-a5b2-c1ff256e2311)
 ![image](https://github.com/user-attachments/assets/aa775097-acb3-49e0-a50e-06b0d12176de)
 ![image](https://github.com/user-attachments/assets/1dc35e7a-c55a-45f3-9a68-0acf040518de)
