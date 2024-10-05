@@ -12,3 +12,8 @@ Fully automated protocol multi-threaded game operation
 Supports importing TGWEBDATA for standalone operation of this game
 Supports customization for task execution and registration using an invitation code
 Supports customization of thread delay
+
+![image](https://github.com/user-attachments/assets/715bb526-6c75-42c3-a5b2-c1ff256e2311)
+![image](https://github.com/user-attachments/assets/aa775097-acb3-49e0-a50e-06b0d12176de)
+![image](https://github.com/user-attachments/assets/1dc35e7a-c55a-45f3-9a68-0acf040518de)
+![image](https://github.com/user-attachments/assets/0cb4acdb-2e9d-449e-8922-12ba826e6d89)
