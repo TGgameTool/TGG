@@ -1,3 +1,4 @@
+[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/kedaya_798)  
 Telegram Game [Telegram Mini Game Script, abbreviated as TGG]
 Click here to download the exe: https://github.com/TGgameTool/TGG/releases
 Telegram game script, Telegram script, Telegram mini game script, Telegram game script
