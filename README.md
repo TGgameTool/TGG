@@ -1,4 +1,8 @@
 # TGG
+
+> 🇪🇳 README in english available [here](README-EN.md)
+
+
 Telegram Game [电报小游戏脚本 简称TGG]  
 点此下载exe：https://github.com/TGgameTool/TGG/releases  
 电报游戏脚本 电报脚本 telegram小游戏脚本 telegram游戏脚本  
