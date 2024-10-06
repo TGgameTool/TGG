@@ -18,8 +18,8 @@ Telegram Game [电报小游戏脚本 简称TGG]
 | Support pyrogram .session / 支持Poprogram.会话                          |     ✅     |
 | Get statistics for all accounts / 获取所有帐户的统计信息                 |     ✅     |
 | TDATA TO session / TDATA文件批量导入转session                           |     ✅     |
-| QR扫码登录telegram账号                           |     ✅     |
-| Code登录telegram账号                           |     ✅     |
+| QR扫码登录 telegram 账号                           |     ✅     |
+| Code登录 telegram 账号                           |     ✅     |
 | 支持导入此游戏的 TGWEBDATA 单独运行                           |     ✅     |
 | 支持自定义是否进行任务和注册使用邀请码                           |     ✅     |
 | 支持自定义线程延迟                           |     ✅     |
