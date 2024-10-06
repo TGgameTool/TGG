@@ -1,4 +1,4 @@
-# TGG[电报小游戏脚本 简称TGG]
+# TGG [Telegram Game]
 [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/kedaya_798)  
 > 🇪🇳 README in english available [here](README-EN.md)
 
