@@ -11,8 +11,8 @@ Telegram Game [电报小游戏脚本 简称TGG]
 ## 软件功能
 | Functional                                                     | Supported |
 |----------------------------------------------------------------|:---------:|
-| Multithreading                                                 |     ✅     |
-| Binding a proxy to a session                                   |     ✅     |
+| Multithreading / 多线程                                                 |     ✅     |
+| Binding a proxy to a session / 将代理绑定到会话                                   |     ✅     |
 | Auto-player;                                                   |     ✅     |
 | Random sleep time between accounts                             |     ✅     |
 | Support pyrogram .session                                      |     ✅     |
