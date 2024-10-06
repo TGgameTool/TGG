@@ -24,6 +24,17 @@ Telegram Game [电报小游戏脚本 简称TGG]
 | 支持自定义是否进行任务和注册使用邀请码                           |     ✅     |
 | 支持自定义线程延迟                           |     ✅     |
 
+## 当前拥有平台
+major.bot  
+banana.carv.io / interface.carv.io  
+www.yescoin.gold  
+telegram.blum.codes  
+djdog.io  
+mini-app.tomarket.ai  
+babydogeclikerbot.com  
+www.vanadatahero.com  
+tg-app.memefi.club  
+cats-frontend.tgapps.store  
 
 ## 软件页面  
 ![image](https://github.com/user-attachments/assets/715bb526-6c75-42c3-a5b2-c1ff256e2311)
