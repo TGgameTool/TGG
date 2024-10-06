@@ -17,7 +17,7 @@ Telegram Game [电报小游戏脚本 简称TGG]
 | Random sleep time between accounts                             |     ✅     |
 | Support pyrogram .session                                      |     ✅     |
 | Get statistics for all accounts                                |     ✅     |
-
+| TDATA TO session                                              |     ✅     |
 
 目前拥有功能:  
 1.小游戏预览  
