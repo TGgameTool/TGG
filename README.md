@@ -12,22 +12,18 @@ Telegram Game [电报小游戏脚本 简称TGG]
 | Functional                                                     | Supported |
 |----------------------------------------------------------------|:---------:|
 | Multithreading / 多线程                                                 |     ✅     |
-| Binding a proxy to a session / 将代理绑定到会话                                   |     ✅     |
-| Auto-player;                                                   |     ✅     |
-| Random sleep time between accounts                             |     ✅     |
-| Support pyrogram .session                                      |     ✅     |
-| Get statistics for all accounts                                |     ✅     |
-| TDATA TO session                                              |     ✅     |
+| Binding a proxy to a session / 将代理绑定到会话                          |     ✅     |
+| Auto-player / 全自动                                                    |     ✅     |
+| Random sleep time between accounts / 帐户之间的随机睡眠时间              |     ✅     |
+| Support pyrogram .session / 支持Poprogram.会话                          |     ✅     |
+| Get statistics for all accounts / 获取所有帐户的统计信息                 |     ✅     |
+| TDATA TO session / TDATA文件批量导入转session                           |     ✅     |
+| QR扫码登录telegram账号                           |     ✅     |
+| Code登录telegram账号                           |     ✅     |
+| 支持导入此游戏的 TGWEBDATA 单独运行                           |     ✅     |
+| 支持自定义是否进行任务和注册使用邀请码                           |     ✅     |
+| 支持自定义线程延迟                           |     ✅     |
 
-目前拥有功能:  
-1.小游戏预览  
-2.tdata导入session获取telegram账号[已使用官方API防封处理]  
-3.QR扫码登录telegram账号[已使用官方API防封处理]  
-4.Code登录telegram账号[已使用官方API防封处理]  
-5.全自动协议多线程运行游戏  
-6.支持导入此游戏的 TGWEBDATA 单独运行    
-7.支持自定义是否进行任务和注册使用邀请码  
-8.支持自定义线程延迟  
 
 ## 软件页面  
 ![image](https://github.com/user-attachments/assets/715bb526-6c75-42c3-a5b2-c1ff256e2311)
