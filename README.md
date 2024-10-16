@@ -33,13 +33,14 @@ Download：https://github.com/TGgameTool/TGG/releases
 ![image](https://github.com/user-attachments/assets/0cb4acdb-2e9d-449e-8922-12ba826e6d89)
 
 ## 当前拥有平台
-major.bot  
-banana.carv.io / interface.carv.io  
-www.yescoin.gold  
-telegram.blum.codes  
-djdog.io  
-mini-app.tomarket.ai  
-babydogeclikerbot.com  
-www.vanadatahero.com  
-tg-app.memefi.club  
-cats-frontend.tgapps.store  
+https://major.bot/  
+https://banana.carv.io/ / https://interface.carv.io/  
+https://www.yescoin.gold/  
+https://telegram.blum.codes/  
+https://djdog.io/  
+https://mini-app.tomarket.ai/  
+https://tonstation.app/  
+https://babydogeclikerbot.com/  
+https://www.vanadatahero.com/  
+https://tg-app.memefi.club/  
+https://cats-frontend.tgapps.store/  
